@@ -1,0 +1,7 @@
+mljar-mercury
+numpy
+tensorflow-cpu
+tensorflow_hub
+matplotlib
+opencv-python
+pillow
